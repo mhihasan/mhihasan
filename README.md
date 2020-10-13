@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://dev.to/hasanul_islam](https://dev.to/hasanul_islam)
 
-- 💬 Ask me about **Python, Django, AWS stack**
+- 💬 Ask me about **Python, Django, JavaScript, AWS stack**
 
 - 📫 How to reach me **hasan.buet.cse12@gmail.com**
 
