@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hasanul23/](https://www.linkedin.com/in/hasanul23/)
 
-- ⚡ Fun fact **I don't know how to cook**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [GeoDjango Installation: PostGIS and GDAL](https://dev.to/hasanul_islam/geodjango-installation-postgis-and-gdal-36h1)
