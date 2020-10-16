@@ -20,7 +20,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [GeoDjango Installation: PostGIS and GDAL](https://dev.to/hasanul_islam/geodjango-installation-postgis-and-gdal-36h1)
 - [Caching in Django REST Framework: Memcached](https://dev.to/hasanul_islam/caching-in-django-rest-framework-memcached-58n0)
 - [Elasticsearch: Snapshot and Restore with AWS S3](https://dev.to/hasanul_islam/elasticsearch-snapshot-and-restore-with-aws-s3-1cbp)
