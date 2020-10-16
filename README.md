@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanul23&label=Profile%20views&color=0e75b6&style=flat" alt="hasanul23" /> </p>
 
-- 🔭 I’m currently working on [cavertical](https://www.carvertical.com/)
+- 🔭 I’m currently working on [caVertical](https://www.carvertical.com/)
 
 - 🌱 I’m currently learning **Kubernetes, HashiCorp Tools**
 
-- 👯 I’m looking to collaborate on [django](https://github.com/django/django)
+- 👯 I’m looking to collaborate on [Django](https://github.com/django/django)
 
-- 📝 I regulary write articles on [https://dev.to/hasanul_islam](https://dev.to/hasanul_islam)
+- 📝 I regulary write articles on [Dev.to](https://dev.to/hasanul_islam)
 
 - 💬 Ask me about **Python, Django, JavaScript, AWS stack**
 
 - 📫 How to reach me **hasan.buet.cse12@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hasanul23/](https://www.linkedin.com/in/hasanul23/)
+- 📄 Know about my experiences [@hasanul23](https://www.linkedin.com/in/hasanul23/)
 
 ### Blogs posts
 
