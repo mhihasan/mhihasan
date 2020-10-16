@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Django, JavaScript, AWS stack**
 
-- 📫 How to reach me **hasan.buet.cse12@gmail.com**
+- 📫 How to reach me <a href="mailto:hasan.buet.cse12@gmail.com">Contact</a>
 
 - 📄 Know about my experiences [@hasanul23](https://www.linkedin.com/in/hasanul23/)
 
