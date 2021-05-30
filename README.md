@@ -15,7 +15,7 @@
 
 - 📫 How to reach me <a href="mailto:hasan.buet.cse12@gmail.com">Contact</a>
 
-- 📄 Know about my experiences [@hasanul23](https://www.linkedin.com/in/hasanul23/)
+- 📄 Know about my experiences [@hasanul23](https://www.linkedin.com/in/mhihasan/)
 
 ### Blogs posts
 
