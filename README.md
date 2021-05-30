@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanul23&label=Profile%20views&color=0e75b6&style=flat" alt="hasanul23" /> </p>
 
-- 🔭 I’m currently working on [carVertical](https://www.carvertical.com/)
+- 🔭 I’m currently working at [carVertical](https://www.carvertical.com/)
 
 - 🌱 I’m currently learning **Kubernetes, HashiCorp Tools**
 
