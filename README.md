@@ -108,12 +108,6 @@
 </p>
 
 
-<h3 align="left">Static Site Generators:</h3>
-<p align="left">
-    <a href="https://www.gatsbyjs.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-</p>
-
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
@@ -122,6 +116,9 @@
             alt="vuejs" width="40" height="40"/> </a>
     <a href="https://vuetifyjs.com/en/" target="_blank"> <img
             src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+     <a href="https://riot.js.org" target="_blank"> <img
+            src="https://riot.js.org/img/logo/square.svg"
+            alt="riotjs" width="40" height="40"/> </a>
     <a href="https://webpack.js.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40"/> </a>
@@ -146,6 +143,14 @@
             src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40"
             height="40"/> </a>
 </p>
+
+
+<h3 align="left">Static Site Generators:</h3>
+<p align="left">
+    <a href="https://www.gatsbyjs.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+</p>
+
 
 
 <h3 align="left">Others:</h3>
