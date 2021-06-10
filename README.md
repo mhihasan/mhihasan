@@ -7,19 +7,19 @@
 
 - 👯 I’m looking to collaborate on [Django](https://github.com/django/django)
 
-- 📝 I regulary write articles on [https://dev.to/mhihasan](https://dev.to/mhihasan)
+- 📝 I regulary write articles on [here](https://dev.to/mhihasan)
 
 - 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
 
 - 📫 How to reach me **hasan DOT buet DOT cse12 AT gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mhihasan/](https://www.linkedin.com/in/mhihasan/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/mhihasan/)
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/mhihasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mhihasan" height="30" width="40" /></a>
 <a href="https://twitter.com/hasanuli23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanuli23" height="30" width="40" /></a>
