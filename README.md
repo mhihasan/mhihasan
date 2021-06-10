@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
 
-- 📫 How to reach me **hasan DOT buet DOT cse12 AT gmail.com**
+- 📫 How to reach me **hasan DOT buet DOT cse12 AT gmail DOT com**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/mhihasan/)
 
