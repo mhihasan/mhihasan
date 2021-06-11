@@ -107,6 +107,10 @@
             width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+    <a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> <img
+            src="https://www.pikpng.com/pngl/m/104-1044686_official-uwsgi-logo-uwsgi-logo-clipart.png" alt="uwsgi" width="40" height="40"/> </a>
+    <a href="https://gunicorn.org/" target="_blank"> <img
+            src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="40" height="40"/> </a>
 </p>
 
 
