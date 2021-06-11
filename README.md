@@ -81,6 +81,8 @@
             alt="redis" width="40" height="40"/> </a>
     <a href="https://www.elastic.co" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+     <a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img
+            src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="dynamodb" width="40" height="40"/></a>
 </p>
 
 
