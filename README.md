@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Django](https://github.com/django/django)
 
-- 📝 I regulary write articles on [here](https://dev.to/mhihasan)
+- 📝 I regulary write articles on [Dev.to](https://dev.to/mhihasan)
 
 - 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
 
