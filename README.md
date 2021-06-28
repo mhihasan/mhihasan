@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hasan DOT buet DOT cse12 AT gmail DOT com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/mhihasan/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mhihasan/)
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
