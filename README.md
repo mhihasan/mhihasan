@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Django](https://github.com/django/django)
-
-- 📝 I regulary write articles on [Dev.to](https://dev.to/mhihasan)
+- 📝 I sometimes write articles on [Dev.to](https://dev.to/mhihasan)
 
 - 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
 
