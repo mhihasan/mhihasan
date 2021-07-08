@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [carVertical](https://www.carvertical.com/)
 
-- 🌱 I’m currently learning **Data Science**
-
 - 📝 I sometimes write articles on [Dev.to](https://dev.to/mhihasan)
 
 - 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
