@@ -13,10 +13,10 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Python Dependencies by AWS  Lambda Layer](https://dev.to/mhihasan/managing-python-dependencies-by-aws-lambda-layer-1mi9)
 - [Create Tarfile(tar.gz) in Python](https://dev.to/mhihasan/create-tarfile-tar-gz-in-python-ji6)
 - [GeoDjango Installation: PostGIS and GDAL](https://dev.to/mhihasan/geodjango-installation-postgis-and-gdal-36h1)
 - [Caching in Django REST Framework: Memcached](https://dev.to/mhihasan/caching-in-django-rest-framework-memcached-58n0)
-- [Elasticsearch: Snapshot and Restore with AWS S3](https://dev.to/mhihasan/elasticsearch-snapshot-and-restore-with-aws-s3-1cbp)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Connect with me:</h2>
