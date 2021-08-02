@@ -13,10 +13,10 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CAP Theorem with examples](https://dev.to/mhihasan/cap-theorem-with-examples-hg4)
 - [Testing Environment variable in pytest](https://dev.to/mhihasan/testing-environment-variable-in-pytest-38ec)
 - [Managing Python Dependencies by AWS  Lambda Layer](https://dev.to/mhihasan/managing-python-dependencies-by-aws-lambda-layer-1mi9)
 - [Create Tarfile(tar.gz) in Python](https://dev.to/mhihasan/create-tarfile-tar-gz-in-python-ji6)
-- [GeoDjango Installation: PostGIS and GDAL](https://dev.to/mhihasan/geodjango-installation-postgis-and-gdal-36h1)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Connect with me:</h2>
