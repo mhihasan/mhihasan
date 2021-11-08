@@ -13,7 +13,7 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [uwsgi error: bind(): No such file or directory [core/socket.c line 230]](https://dev.to/mhihasan/uwsgi-error-bind-no-such-file-or-directory-core-socket-c-line-230-4fi2)
+- [uwsgi error: bind&lpar;&rpar;: No such file or directory [core/socket.c line 230]](https://dev.to/mhihasan/uwsgi-error-bind-no-such-file-or-directory-core-socket-c-line-230-4fi2)
 - [CAP Theorem with examples](https://dev.to/mhihasan/cap-theorem-with-examples-hg4)
 - [Testing Environment variable in pytest](https://dev.to/mhihasan/testing-environment-variable-in-pytest-38ec)
 - [Serverless Python: Managing Python Dependencies in AWS  Lambda Layer](https://dev.to/mhihasan/managing-python-dependencies-by-aws-lambda-layer-1mi9)
