@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Hasan</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working at [carVertical](https://www.carvertical.com/)
-
 - 📝 I sometimes write articles on [Dev.to](https://dev.to/mhihasan)
 
 - 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
