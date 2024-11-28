@@ -2,11 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 📝 I sometimes write articles on [Dev.to](https://dev.to/mhihasan)
-
-- 💬 Ask me about **Python, Django, JavaScript/TypeScript, AWS stack**
-
-- 📫 How to reach me **hasan DOT buet DOT cse12 AT gmail DOT com**
-
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/mhihasan/)
 
 ## Blogs posts
