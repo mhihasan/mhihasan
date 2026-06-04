@@ -42,14 +42,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->51<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
+| Forks | <!--TOTAL_FORKS-->1<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->3<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->67<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->50<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->never<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-04<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -66,6 +66,10 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
+| contract-review-ai-agent | 34 |
+| agent-skills | 12 |
+| advent-of-code | 2 |
+| grab-multi-agent-poc | 2 |
 <!--TOP_REPOS_END-->
 
 ---
