@@ -6,6 +6,8 @@
 
 <p align="center">
   8+ years building scalable backend systems, cloud-native architectures, and AI-powered applications.
+  <br>
+  Previously built ML pipelines and distributed data systems at MarketMuse and Siteimprove.
 </p>
 
 ---
@@ -15,7 +17,7 @@
 - Backend-heavy engineer with deep experience in **Python**, **distributed systems**, and **AWS**
 - Building AI-native applications — integrating LLMs and ML pipelines into production systems
 - Passionate about system design, performance, and developer tooling
-- 📄 [LinkedIn](https://www.linkedin.com/in/mhihasan/) · 💬 [Stack Overflow](https://stackoverflow.com/users/3391131) · ✍️ [Dev.to](https://dev.to/mhihasan) · 📝 [Medium](https://medium.com/@mhihasan)
+- 📄 [LinkedIn](https://www.linkedin.com/in/mhihasan/) · 💬 [Stack Overflow](https://stackoverflow.com/users/3391131)
 
 ---
 
@@ -25,6 +27,14 @@
 ![AI Native](https://img.shields.io/badge/AI--Native_Development-informational?style=flat&color=6a0572)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-informational?style=flat&color=1a535c)
 ![AWS](https://img.shields.io/badge/AWS_Cloud-informational?style=flat&color=e07b39)
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,go,aws,docker,postgres,redis,kafka" />
+</p>
 
 ---
 
@@ -65,6 +75,4 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <p align="left">
   <a href="https://linkedin.com/in/mhihasan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/3391131" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://dev.to/mhihasan" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
-  <a href="https://medium.com/@mhihasan" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
 </p>
