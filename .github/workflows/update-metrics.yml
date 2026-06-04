@@ -264,18 +264,13 @@ jobs:
           print(f"Updated {metrics_file} with {len(data['metrics'])} days of data")
           PYTHON_EOF
 
-      - name: Update dashboard username
-        run: |
-          sed -i "s|{{USERNAME}}|${USERNAME}|g" docs/index.html
-          sed -i "s|@foyzulkarim|@${USERNAME}|g" docs/index.html
-
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if ! git diff --quiet README.md docs/metrics-history.json docs/index.html 2>/dev/null; then
-            git add README.md docs/metrics-history.json docs/index.html
+          if ! git diff --quiet README.md docs/metrics-history.json 2>/dev/null; then
+            git add README.md docs/metrics-history.json
             git commit -m "chore: update GitHub metrics [skip ci]"
             git pull --rebase origin ${{ github.ref_name }} || true
             git push
