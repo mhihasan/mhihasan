@@ -1,159 +1,70 @@
-<h1 align="center">Hi, I'm Hasan</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi, I'm Hasan 👋</h1>
 
-- 📝 I sometimes write articles on [Dev.to](https://dev.to/mhihasan)
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/mhihasan/)
-
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [uwsgi error: bind&lpar;&rpar;: No such file or directory [core/socket.c line 230]](https://dev.to/mhihasan/uwsgi-error-bind-no-such-file-or-directory-core-socket-c-line-230-4fi2)
-- [CAP Theorem with examples](https://dev.to/mhihasan/cap-theorem-with-examples-hg4)
-- [Testing Environment variable in pytest](https://dev.to/mhihasan/testing-environment-variable-in-pytest-38ec)
-- [Serverless Python: Managing Python Dependencies in AWS  Lambda Layer](https://dev.to/mhihasan/managing-python-dependencies-by-aws-lambda-layer-1mi9)
-<!-- BLOG-POST-LIST:END -->
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://dev.to/mhihasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mhihasan" height="30" width="40" /></a>
-<a href="https://twitter.com/hasanuli23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanuli23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhihasan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3391131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3391131" height="30" width="40" /></a>
-<a href="https://fb.com/mhihasan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhihasan23" height="30" width="40" /></a>
-<a href="https://medium.com/@mhihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhihasan" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer · AI-Native · Distributed Systems · AWS</strong>
 </p>
 
-<h2 align="left">Tools & Technologies:</h2>
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-            width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                                                                                           alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40"/> </a>
+<p align="center">
+  8+ years building scalable backend systems, cloud-native architectures, and AI-powered applications.
 </p>
 
+---
 
-<h3 align="left">Backend Development:</h3>
+## About Me
+
+- Backend-heavy engineer with deep experience in **Python**, **distributed systems**, and **AWS**
+- Building AI-native applications — integrating LLMs and ML pipelines into production systems
+- Passionate about system design, performance, and developer tooling
+- 📄 [LinkedIn](https://www.linkedin.com/in/mhihasan/) · 💬 [Stack Overflow](https://stackoverflow.com/users/3391131) · ✍️ [Dev.to](https://dev.to/mhihasan) · 📝 [Medium](https://medium.com/@mhihasan)
+
+---
+
+## Focus Areas
+
+![Backend](https://img.shields.io/badge/Backend_Engineering-informational?style=flat&color=2b7a78)
+![AI Native](https://img.shields.io/badge/AI--Native_Development-informational?style=flat&color=6a0572)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-informational?style=flat&color=1a535c)
+![AWS](https://img.shields.io/badge/AWS_Cloud-informational?style=flat&color=e07b39)
+
+---
+
+## GitHub Stats
+
+| Metric | Count |
+|--------|-------|
+| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
+
+<sub>Last updated: <!--LAST_UPDATED-->never<!--/LAST_UPDATED--></sub>
+
+---
+
+### 📈 View Detailed Metrics Dashboard
+
+Want to see growth trends and historical data? Check out my **interactive metrics dashboard** tracking GitHub activity over time!
+
+🔗 **[View Dashboard →](https://mhihasan.github.io/mhihasan/)**
+
+---
+
+## Top Repositories (by views, last 14 days)
+
+<!--TOP_REPOS_START-->
+| Repository | Views |
+|------------|-------|
+<!--TOP_REPOS_END-->
+
+---
+
+## Connect
+
 <p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"
-            width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40"/> </a>
-</p>
-
-
-<h3 align="left">Databases:</h3>
-<p align="left">
-    <a href="https://www.postgresql.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://redis.io" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40"/> </a>
-    <a href="https://www.elastic.co" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-     <a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img
-            src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="dynamodb" width="40" height="40"/></a>
-</p>
-
-
-<h3 align="left">Testing:</h3>
-<p align="left">
-    <a href="https://jestjs.io" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    <a href="https://pytest.org" target="_blank"> <img
-            src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="pytest" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">DevOps:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-    <a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> <img
-            src="https://seeklogo.com/images/U/uwsgi-logo-974E2EB50A-seeklogo.com.png" alt="uwsgi" width="40" height="40"/> </a>
-    <a href="https://gunicorn.org/" target="_blank"> <img
-            src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="40" height="40"/> </a>
-</p>
-
-
-
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
-    <a href="https://vuejs.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40"/> </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank"> <img
-            src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-     <a href="https://riot.js.org" target="_blank"> <img
-            src="https://riot.js.org/img/logo/square.svg"
-            alt="riotjs" width="40" height="40"/> </a>
-    <a href="https://webpack.js.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-            alt="webpack" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-            width="40" height="40"/> </a>
-    <a href="https://gulpjs.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40"
-            height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40"/> </a>
-</p>
-
-
-<h3 align="left">Data Visualization:</h3>
-<p align="left">
-    <a href="https://www.elastic.co/kibana" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40"
-            height="40"/> </a>
-</p>
-
-
-<h3 align="left">Static Site Generators:</h3>
-<p align="left">
-    <a href="https://www.gatsbyjs.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-</p>
-
-
-
-<h3 align="left">Others:</h3>
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40"/> </a>
+  <a href="https://linkedin.com/in/mhihasan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/3391131" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://dev.to/mhihasan" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+  <a href="https://medium.com/@mhihasan" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
 </p>
