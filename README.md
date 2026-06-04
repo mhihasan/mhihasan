@@ -21,23 +21,6 @@
 
 ---
 
-## Focus Areas
-
-![Backend](https://img.shields.io/badge/Backend_Engineering-informational?style=flat&color=2b7a78)
-![AI Native](https://img.shields.io/badge/AI--Native_Development-informational?style=flat&color=6a0572)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-informational?style=flat&color=1a535c)
-![AWS](https://img.shields.io/badge/AWS_Cloud-informational?style=flat&color=e07b39)
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,aws,docker,postgres,redis,kafka" />
-</p>
-
----
-
 ## GitHub Stats
 
 | Metric | Count |
