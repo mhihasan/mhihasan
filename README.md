@@ -6,8 +6,6 @@
 
 <p align="center">
   8+ years building scalable backend systems, cloud-native architectures, and AI-powered applications.
-  <br>
-  Previously built ML pipelines and distributed data systems at MarketMuse and Siteimprove.
 </p>
 
 ---
