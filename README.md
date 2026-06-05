@@ -23,12 +23,12 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->59<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->5<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->1<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->3<!--/TOTAL_WATCHERS--> |
+| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->67<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->50<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->131<!--/TOTAL_VIEWS--> |
 
 <sub>Last updated: <!--LAST_UPDATED-->2026-06-05<!--/LAST_UPDATED--></sub>
 
@@ -47,10 +47,11 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| contract-review-ai-agent | 34 |
-| agent-skills | 12 |
-| advent-of-code | 2 |
+| contract-review-ai-agent | 97 |
+| mhihasan | 19 |
+| agent-skills | 11 |
 | grab-multi-agent-poc | 2 |
+| advent-of-code | 2 |
 <!--TOP_REPOS_END-->
 
 ---
