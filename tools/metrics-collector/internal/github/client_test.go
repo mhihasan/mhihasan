@@ -1,7 +1,9 @@
 package github
 
 import (
+	"bytes"
 	"encoding/json"
+	"io"
 	"net/http"
 	"net/http/httptest"
 	"testing"
@@ -170,5 +172,47 @@ func TestEmptyRepositoryListReturnsZeros(t *testing.T) {
 	}
 	if m.TotalStars != 0 || m.TotalForks != 0 || m.TotalWatchers != 0 || m.TotalFollowers != 0 {
 		t.Errorf("expected all zeros for empty repo list, got %+v", m)
+	}
+}
+
+func TestGraphQLQueryFiltersPublicRepos(t *testing.T) {
+	sawPublicFilter := false
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if r.URL.Path == "/graphql" {
+			body, err := io.ReadAll(r.Body)
+			if err != nil {
+				t.Fatalf("failed to read graphql request body: %v", err)
+			}
+			sawPublicFilter = bytes.Contains(body, []byte("privacy: PUBLIC"))
+
+			resp := map[string]any{
+				"data": map[string]any{
+					"user": map[string]any{
+						"followers": map[string]any{"totalCount": 0},
+						"repositories": map[string]any{
+							"totalCount": 0,
+							"pageInfo":   map[string]any{"hasNextPage": false, "endCursor": ""},
+							"nodes":      []map[string]any{},
+						},
+					},
+				},
+			}
+			json.NewEncoder(w).Encode(resp)
+			return
+		}
+		if r.URL.Path == "/users/testuser/repos" {
+			w.Write([]byte("[]"))
+			return
+		}
+		http.NotFound(w, r)
+	}))
+	defer srv.Close()
+
+	c := NewClient("fake-token", srv.URL)
+	if _, err := c.CollectMetrics("testuser", 10); err != nil {
+		t.Fatal(err)
+	}
+	if !sawPublicFilter {
+		t.Error("expected graphql repositories query to include privacy: PUBLIC")
 	}
 }

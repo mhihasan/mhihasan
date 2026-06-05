@@ -29,7 +29,7 @@ const graphQLQuery = `
 query($username: String!, $cursor: String) {
   user(login: $username) {
     followers { totalCount }
-    repositories(first: 100, after: $cursor, ownerAffiliations: OWNER, isFork: false) {
+    repositories(first: 100, after: $cursor, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
       totalCount
       pageInfo { hasNextPage endCursor }
       nodes {
