@@ -23,14 +23,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->5<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->9<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->67<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->131<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->337<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-06<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-07<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -47,11 +47,14 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| contract-review-ai-agent | 97 |
-| mhihasan | 19 |
-| agent-skills | 11 |
-| grab-multi-agent-poc | 2 |
+| contract-review-ai-agent | 292 |
+| mhihasan | 26 |
+| agent-skills | 10 |
 | advent-of-code | 2 |
+| grab-multi-agent-poc | 2 |
+| Python | 2 |
+| serverless-plugin-aws-alerts | 2 |
+| werkzeug | 1 |
 <!--TOP_REPOS_END-->
 
 ---
