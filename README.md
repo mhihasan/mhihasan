@@ -28,9 +28,9 @@
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->62<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->350<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->355<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-11<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-12<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -49,13 +49,12 @@ Want to see growth trends and historical data? Check out my **interactive metric
 |------------|-------|
 | contract-review-ai-agent | 292 |
 | mhihasan | 26 |
-| agent-skills | 11 |
+| agent-skills | 19 |
 | Python | 5 |
 | serverless-plugin-aws-alerts | 5 |
 | werkzeug | 4 |
 | langchain-community | 3 |
-| advent-of-code | 2 |
-| grab-multi-agent-poc | 2 |
+| grab-multi-agent-poc | 1 |
 <!--TOP_REPOS_END-->
 
 ---
