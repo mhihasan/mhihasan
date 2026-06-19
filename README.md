@@ -23,14 +23,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->9<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->8<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->62<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->593<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->631<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-18<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-19<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -47,12 +47,11 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| contract-review-ai-agent | 298 |
-| coding-agent-skills | 250 |
+| coding-agent-skills | 326 |
+| contract-review-ai-agent | 264 |
 | mhihasan | 28 |
 | Python | 5 |
 | serverless-plugin-aws-alerts | 5 |
-| werkzeug | 4 |
 | langchain-community | 3 |
 <!--TOP_REPOS_END-->
 
