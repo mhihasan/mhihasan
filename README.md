@@ -30,7 +30,7 @@
 | Followers | <!--TOTAL_FOLLOWERS-->64<!--/TOTAL_FOLLOWERS--> |
 | Views (14 days) | <!--TOTAL_VIEWS-->36<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-05<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-06<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -47,8 +47,8 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| swe-agent-skills | 20 |
-| agentic-sdlc | 16 |
+| swe-agent-skills | 19 |
+| agentic-sdlc | 17 |
 <!--TOP_REPOS_END-->
 
 ---
