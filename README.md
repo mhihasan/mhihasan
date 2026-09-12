@@ -27,10 +27,10 @@
 | Stars | <!--TOTAL_STARS-->1<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->64<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->57<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->65<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->58<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-09-11<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-09-12<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -48,7 +48,7 @@ Want to see growth trends and historical data? Check out my **interactive metric
 | Repository | Views |
 |------------|-------|
 | swe-agent-skills | 54 |
-| agentic-sdlc | 3 |
+| agentic-sdlc | 4 |
 <!--TOP_REPOS_END-->
 
 ---
