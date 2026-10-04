@@ -28,9 +28,9 @@
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->66<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->10<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->31<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-03<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-04<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -47,8 +47,8 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| agentic-sdlc | 7 |
-| swe-agent-skills | 3 |
+| agentic-sdlc | 21 |
+| swe-agent-skills | 10 |
 <!--TOP_REPOS_END-->
 
 ---
