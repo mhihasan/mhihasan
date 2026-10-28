@@ -28,9 +28,9 @@
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->64<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->6<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->7<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-27<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-28<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -49,6 +49,7 @@ Want to see growth trends and historical data? Check out my **interactive metric
 |------------|-------|
 | advent-of-code | 3 |
 | agentic-sdlc | 3 |
+| swe-agent-skills | 1 |
 <!--TOP_REPOS_END-->
 
 ---
