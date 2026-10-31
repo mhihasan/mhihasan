@@ -24,13 +24,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->9<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->2<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->3<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->64<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->25<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->30<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-30<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-31<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -47,7 +47,7 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| agentic-sdlc | 15 |
+| agentic-sdlc | 20 |
 | swe-agent-skills | 7 |
 | advent-of-code | 3 |
 <!--TOP_REPOS_END-->
