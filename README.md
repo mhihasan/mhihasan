@@ -30,7 +30,7 @@
 | Followers | <!--TOTAL_FOLLOWERS-->63<!--/TOTAL_FOLLOWERS--> |
 | Views (14 days) | <!--TOTAL_VIEWS-->39<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-17<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-18<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -47,8 +47,8 @@ Want to see growth trends and historical data? Check out my **interactive metric
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| agentic-sdlc | 23 |
-| swe-agent-skills | 10 |
+| agentic-sdlc | 22 |
+| swe-agent-skills | 11 |
 | advent-of-code | 5 |
 | mhihasan | 1 |
 <!--TOP_REPOS_END-->
